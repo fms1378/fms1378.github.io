@@ -1,0 +1,57 @@
+- layout: top-middle
+  name: Microprocessor Laboratory Project
+  link: github.com/fms1378/shtxx_avr
+  github: github.com/fms1378/shtxx_avr
+  quote: >
+    SHT1x and SHT7x Tempreture and Humidity Sensor Data on 2*16 LCD Viewer.
+  description: | # this will include new lines to allow paragraphs
+    I do this Open-Source Project for My Labratory Project and Share it over Github.
+    This Project was performed on a AVR Microprocessor and a LCD connected to PORT A.
+    Microprocessor measure physical variables every 0.5 seconds and update shown values.
+
+- layout: top-middle
+  name: Glove Machine IR Product Detector
+  link: https://atbox.io/fms1378/projects/1Vl9v
+  quote: >
+    An IR Sensor that Detects Completed Product has been Droped out of Machine or Not.
+  description: | # this will include new lines to allow paragraphs
+    According to the needs of a glove manufacturing company for their glove knitting machines to determine if product comes out or not they have a weak Chinese designed sensor board with a lot of problems and sometimes not seeing the product error.
+    
+    I have designed an Op-Amp based circuit that replaced with old microcontroller based circuit with very less errors and problems.
+
+- layout: top-middle
+  name: Wireless Smart Thermostat
+  quote: >
+    Home or Small Office Heating System Smart Wireless Thermostat.
+  description: | # this will include new lines to allow paragraphs
+    An Esp based thermostat that not need wires to connect, and operates wirelessly, 
+    It can be customized :
+    for example act according to working hours for offices or get a weekly schedule,
+    remotely controlled with smart phones over internet
+    or anything you need...
+
+- layout: top-middle
+  name: Smart Cooler Conteroller
+  quote: >
+    Home or Small Office Smart Cooler Controller.
+  description: | # this will include new lines to allow paragraphs
+    An Esp based equipment that controls cooler depending to ambient temperature and what you have set.
+    It has embedded wifi and connect to your home network, it can set with any devices on the network, also over internet remotely.
+    It can be customized for what you looking for ... .
+
+- layout: top-middle
+  name: Restaurant Paging System
+  link: https://atbox.io/fms1378/projects/NZa3n
+  quote: >
+    Food Ready and Customer Call Announcement System For Restaurant.
+  description: | # this will include new lines to allow paragraphs
+    Include Pagers, Keypad, Charger, and Wireless Network.
+    This Project is Esp Based, I had designed borads for pagers and smart charger also pagers and keypad software development with c++.
+
+- layout: top-middle
+  name: Doctors Attendance Hours Panel
+  quote: >
+    A Panel That Shows Doctors Attendance Hours.
+  description: | # this will include new lines to allow paragraphs
+    This Project done on a Raspberry Pi and C# on Win 10 IOT.
+    Program connects to database, make a daily table and shows it.

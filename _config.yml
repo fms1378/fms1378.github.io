@@ -1,0 +1,59 @@
+# Site
+repository: fms1378/fms1378.github.io #sproogen/resume-theme
+favicon: images/favicon.png
+
+# Personal info
+name: Mohammad Samiee Esfahani
+title: Embedded Developer
+email: Info@MSamiee.ir
+# website: MSamiee.ir
+
+# Social links
+twitter_username: Fms1378
+github_username:  Fms1378
+# dribbble_username: jekyll
+facebook_username: Mohammad.Samiee.5
+# flickr_username: jekyll
+instagram_username: Mohammad.Samieee
+linkedin_username: Fms1378
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.png
+about_content: | # this will include new lines to allow paragraphs
+  Hi, I'm studing Electrical Engineering in Shahrekord University, Iran. I'm a Embedded Developer. As well as developing embedded systems I also have experience designing PCBs and making softwares.
+
+  I am most skilled in: <mark>Developing</mark> and <mark>Learn New Things</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in embedded systems and making things interactive some of my other interests and hobbies are:
+   - Cycling
+   - Gaming
+   - IOT
+
+# Footer
+footer_show_references: fulse
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

@@ -1,0 +1,29 @@
+- layout: left
+  company: Freelancing
+  job_title: Designing and Developing Electronic Devices
+  dates: June 2016 - Present
+  quote: >
+    Design and Implementation of Electronic and Embedded Systems Solutions
+  description: | # this will include new lines to allow paragraphs
+    1. Design and Review the Problem
+    
+    2. Consulting and Providing Solutions
+    
+    3. Hardware Design
+    
+    4. Software Development
+    
+    5. Installation
+    
+    6. Support and After-Sales Service
+    
+- layout: left
+  company: Borj Computer
+  job_title: Repairman of Computer, Electronic and Industrial Boards
+  dates: May 2018 - May 2020
+  quote: >
+    The Company operates in Sales and After-Sales Service of Computers and Repairs of Electrical Devices. 
+  description: | # this will include new lines to allow paragraphs
+    Repairs of any Computer Systems include Laptops, All In One, ... .
+
+    Repairs of Computer Motherboards, Graphic Cards and any Electronic Boards.

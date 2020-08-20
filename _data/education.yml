@@ -1,0 +1,6 @@
+- layout: left
+  name: Shahrekord University
+  dates: 2017 - 2021  
+  qualification: BEE Electrical Engineering
+  description: | # this will include new lines to allow paragraphs
+    I'm a Chair of the *IEEE Shahrekord Student Branch* for 2 years.
